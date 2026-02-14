@@ -129,7 +129,9 @@ http://127.0.0.1:8000/docs
 ## 👨‍💻 Author
 
 **Vaibhav Singh**
+**Kunal Jaiswal**
 
 ---
 
 ⭐ If you found this helpful, consider starring the repo!
+
